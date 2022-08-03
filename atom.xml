@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://stanmanho.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://stanmanho.github.io/"/>
+  <updated>2022-08-03T21:24:36.840Z</updated>
+  <id>http://stanmanho.github.io/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>監控自己信用卡開銷</title>
+    <link href="http://stanmanho.github.io/post/checkCCUsageDaily.html"/>
+    <id>http://stanmanho.github.io/post/checkCCUsageDaily.html</id>
+    <published>2022-08-02T23:56:24.000Z</published>
+    <updated>2022-08-03T21:24:36.840Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一句總結"><a href="#一句總結" class="headerlink" title="一句總結"></a>一句總結</h1><p>Question :: 每個月信用卡繳費都會爆掉，明明都小心花錢怎麼會這樣？</p><p>Answer :: 養成良好習慣，每日監控信用卡消費的細節。</p><h1 id="你知道你的信用卡消費的細節嗎？"><a href="#你知道你的信用卡消費的細節嗎？" class="headerlink" title="你知道你的信用卡消費的細節嗎？"></a>你知道你的信用卡消費的細節嗎？</h1><h2 id="信用卡很方便也可以很隨便"><a href="#信用卡很方便也可以很隨便" class="headerlink" title="信用卡很方便也可以很隨便"></a>信用卡很方便也可以很隨便</h2><p>在美國使用信用卡試衣間非常普遍的東西，基本上已經很少用鈔票和零錢了，也是因為這麼的方便，很難會知道自己花了多少。  </p><p>記得以前學生時代，包包裡會塞個台幣$2000，這樣就知道自己如果去外面買東西或者吃餐廳大概可以花多少錢，而且個人比較謹慎花費，所以要我從包包把錢拿出來消費其實不是一件容易的事。</p><p>現在已經不一樣了， 錢包裡幾乎只剩幾張信用卡，每次餐廳買菜逛街都是先刷卡再說， 有的時候只是小買幾杯飲料， 長期下來其實是很可觀的花費。</p><h2 id="如果已經很克制花費，我還要每天監控信用卡花費嗎？"><a href="#如果已經很克制花費，我還要每天監控信用卡花費嗎？" class="headerlink" title="如果已經很克制花費，我還要每天監控信用卡花費嗎？"></a>如果已經很克制花費，我還要每天監控信用卡花費嗎？</h2><p>絕對需要每天監控你信用卡的花費，在信用卡上消費比較沒有上限， 記得還是要有像花鈔票一樣預算的概念加入信用卡中。</p><h1 id="實踐"><a href="#實踐" class="headerlink" title="實踐"></a>實踐</h1><p>每天只要1分鐘，看看你這個月到今天的消費狀況，看你的預算有沒有一致，再看看有沒有奇怪的花費。</p><p>恭喜你，財富自由又更進了一步！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;一句總結&quot;&gt;&lt;a href=&quot;#一句總結&quot; class=&quot;headerlink&quot; title=&quot;一句總結&quot;&gt;&lt;/a&gt;一句總結&lt;/h1&gt;&lt;p&gt;Question :: 每個月信用卡繳費都會爆掉，明明都小心花錢怎麼會這樣？&lt;/p&gt;
+&lt;p&gt;Answer :: 養成良好習慣</summary>
+      
+    
+    
+    
+    
+    <category term="money" scheme="http://stanmanho.github.io/tags/money/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://stanmanho.github.io/post/google1aba5167f762b5c9.html"/>
+    <id>http://stanmanho.github.io/post/google1aba5167f762b5c9.html</id>
+    <published>2022-08-02T23:50:43.249Z</published>
+    <updated>2022-08-02T23:50:43.253Z</updated>
+    
+    <content type="html"><![CDATA[google-site-verification: google1aba5167f762b5c9.html]]></content>
+    
+    
+      
+      
+    <summary type="html">
+google-site-verification: google1aba5167f762b5c9.html
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>紀錄開始</title>
+    <link href="http://stanmanho.github.io/post/init.html"/>
+    <id>http://stanmanho.github.io/post/init.html</id>
+    <published>2022-08-01T22:49:25.000Z</published>
+    <updated>2022-08-02T22:14:56.220Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="凡事起頭難"><a href="#凡事起頭難" class="headerlink" title="凡事起頭難"></a>凡事起頭難</h1><p>已經在腦袋計畫很久了，一直都想要開一個自己的部落格，這一篇就是我的開始。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;凡事起頭難&quot;&gt;&lt;a href=&quot;#凡事起頭難&quot; class=&quot;headerlink&quot; title=&quot;凡事起頭難&quot;&gt;&lt;/a&gt;凡事起頭難&lt;/h1&gt;&lt;p&gt;已經在腦袋計畫很久了，一直都想要開一個自己的部落格，這一篇就是我的開始。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="aboutMe" scheme="http://stanmanho.github.io/tags/aboutMe/"/>
+    
+  </entry>
+  
+</feed>
